@@ -1,0 +1,8 @@
+IT21314988-lab1 ex.2
+--------------
+Q1: What happens when the number of hidden nodes increase? 
+A1: Model tries to overfit.
+
+Q2: Can you explain the pattern of the accuracy when the hidden nodes increase?
+A2: Up to some point, the accuracy is drastically increasing with the increment of hidden nodes.But, after some point accuracy will fluctuate, with the increment of hidden nodes. 
+
